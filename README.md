@@ -4,13 +4,11 @@ This project implements a Flappy Bird game using Python, Pygame, and NEAT (Neuro
 Demo
 ![image](https://github.com/user-attachments/assets/473d0836-2512-49ce-9fae-efb51f832f37)
 
-
 Features
 Pygame: The game engine used to build the Flappy Bird game.
 NEAT: AI that learns to play the game using evolutionary algorithms.
 Dynamic Pipes: Randomly generated pipe heights to challenge the bird.
 Fitness Evaluation: AI performance measured based on survival and progress.
-
 Setup
 Prerequisites
 Python 3.6+
