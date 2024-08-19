@@ -2,11 +2,11 @@ Flappy Bird NEAT AI Project
 
 This project implements a Flappy Bird game using Python, Pygame, and NEAT (NeuroEvolution of Augmenting Topologies) AI. The AI learns how to play the game by evolving through multiple generations, gradually improving its performance.
 
-Demo
+Demo:
 
 ![image](https://github.com/user-attachments/assets/473d0836-2512-49ce-9fae-efb51f832f37)
 
-Features
+Features:
 
 Pygame: The game engine used to build the Flappy Bird game.
 
@@ -17,9 +17,8 @@ Dynamic Pipes: Randomly generated pipe heights to challenge the bird.
 Fitness Evaluation: AI performance measured based on survival and progress.
 
 
-Setup
 
-Prerequisites
+Prerequisites:
 
 Python 3.6+
 
@@ -28,7 +27,7 @@ Pygame
 NEAT-Python
 
 
-How It Works
+How It Works:
 
 The AI uses NEAT, which evolves a neural network to control the bird. The bird learns to avoid pipes through trial and error, gradually improving over generations.
 
